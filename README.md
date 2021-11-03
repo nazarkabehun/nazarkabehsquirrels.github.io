@@ -1,1 +1,1 @@
-# squirrels.github.io
+# squirrelrecognizer.github.io
